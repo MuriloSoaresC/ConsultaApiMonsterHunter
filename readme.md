@@ -1,0 +1,1 @@
+Projeto de consulta a API de debuffs do game Monster Hunter World em javascript.
